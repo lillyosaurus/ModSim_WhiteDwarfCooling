@@ -3,3 +3,4 @@ https://en.wikipedia.org/wiki/Sirius
 http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/cootime.html#c2
 http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/cootime.html
 http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/temper2.html#c2 (converting temperature and energy)
+https://en.wikipedia.org/wiki/Outer_space
