@@ -8,3 +8,8 @@ heat Q = deltaU
 
 https://en.wikipedia.org/wiki/Einstein_solid
 http://hyperphysics.phy-astr.gsu.edu/hbase/Therm/einsol.html
+
+temperature to energy:
+u = NKT
+energy to temperature
+deltaU/(NK) = T
