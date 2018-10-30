@@ -13,3 +13,7 @@ temperature to energy:
 u = NKT
 energy to temperature
 deltaU/(NK) = T
+
+change in energy due to radiative cooling
+dE/dt = emmisivity*sigma*surface area*(Tstar^4-Tenvironment^4)
+N = mass/(mass/mol)*Na
