@@ -1,0 +1,10 @@
+standard: q = m c deltaT
+problems: assumes a specific heat independient of temperature. due to the strange nature of white dwarfs and the temperatures involved this is unuseable.
+einstein solids. this models a solid as an object where the internal energy is described by the sumation of each particle serving as a 3D quantum harmonic oscillator
+this simplifies to 
+U internal energy (J) = Number of oscillators (particles)*k* T
+heat Q = deltaU
+=> Q = N*K*deltaT
+
+https://en.wikipedia.org/wiki/Einstein_solid
+http://hyperphysics.phy-astr.gsu.edu/hbase/Therm/einsol.html
